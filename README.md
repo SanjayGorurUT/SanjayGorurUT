@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SanjayGorurUT
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning data science and machine learning
-- 💞️ I’m looking to collaborate on projects relevant to Maven plugins and other open-source databases on the backend.
+- 🌱 I’m currently learning distributed systems and operating systems; networking and security next up.
+- 💞️ I’m looking to collaborate on projects relevant to full stack development, hoping to develop my SQL skills.
 - 📫 How to reach me: sanjaygorur2001@utexas.edu
 
 <!---
