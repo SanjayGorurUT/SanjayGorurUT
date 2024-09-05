@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SanjayGorurUT
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning distributed systems and operating systems; networking and security next up.
-- 💞️ I’m looking to collaborate on projects relevant to full stack development, hoping to develop my SQL skills.
-- 📫 How to reach me: sanjaygorur2001@utexas.edu
+- 👋 Hi, I’m Sanjay
+- 👀 I’m a junior SWE at Voxer based in downtown Austin
+- 🌱 I’m currently working on cloud development and improving experiences for businesses/clients in the field of telecommunication(s).
+- 💞️ I’m eager to collaborate on projects relevant to sports betting, fantasy, and related events/statistics. 
+- 📫 How to reach me: sanjaygorurwork@gmail.com
 
 <!---
 SanjayGorurUT/SanjayGorurUT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
