@@ -1,7 +1,7 @@
 - 😎 Hi, I’m Sanjay
-- 👀 I’m a junior SWE at a startup based in downtown Atlanta
-- 🌱 I’m currently working on cloud development and improving experiences for clients in the field of telecommunications.
-- 💞️ I’m eager to collaborate on projects relevant to AI, healthcare, and/or management. 
+- 👀 I’m currently a master's student at Georgia Tech pursuing the AI track.
+- 🌱 I will be joining Pinterest to expand on ML infrastructure in the space of image generation and modeling.
+- 💞️ I’m also eager to collaborate on projects relevant to data storage, financial technology, and/or healthcare. 
 - 📫 How to reach me: sanjaygorurwork@gmail.com
 
 <!---
