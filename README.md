@@ -1,6 +1,6 @@
 - 😎 Hi, I’m Sanjay
 - 👀 I’m currently a master's student at Georgia Tech pursuing the AI track.
-- 🌱 I will be joining Pinterest to expand on ML infrastructure in the space of image generation and modeling.
+- 🌱 I will be joining Pinterest in the Spring to expand on ML infrastructure in the space of image generation and modeling.
 - 💞️ I’m also eager to collaborate on projects relevant to data storage, financial technology, and/or healthcare. 
 - 📫 How to reach me: sanjaygorurwork@gmail.com
 
